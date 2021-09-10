@@ -23,3 +23,7 @@ Routes :
 
 - `POST http://localhost:3001/forgot`
 - `GET http://localhost:3001/theme/{email}`
+
+
+
+Je précise que ce serveur est à utiliser avec le repo suivant : https://github.com/CedricLeizour/ChatRoom
